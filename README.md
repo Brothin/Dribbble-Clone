@@ -63,39 +63,39 @@ The app is hosted on Vercel. [Click here](https://dribbble-clone-black.vercel.ap
 
 ## 📸 Screenshots
 
-#### Homepage
+### Homepage
 
 ![Homepage](/screenshots/screenshot-1.png)
 
-#### Work
+### Work
 
 ![Work](/screenshots/screenshot-2.png)
 
-#### Sign in
+### Sign in
 
 ![Sign in](/screenshots/screenshot-3.png)
 
-#### Sign up
+### Sign up
 
 ![Sign up](/screenshots/screenshot-4.png)
 
-#### E-mail verification
+### E-mail verification
 
 ![Verification](/screenshots/screenshot-9.png)
 ![Email](/screenshots/screenshot-8.png)
 
-#### Search
+### Search
 
 ![Search](/screenshots/screenshot-5.png)
 
-#### Profile
+### Profile
 
 ![Profile](/screenshots/screenshot-6.png)
 
-#### Account
+### Account
 
 ![Account](/screenshots/screenshot-10.png)
 
-#### Upload
+### Upload
 
 ![Upload](/screenshots/screenshot-7.png)
